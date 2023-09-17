@@ -1,3 +1,9 @@
 body {
     background-color: azure;
 }
+#title {
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 30px auto;
+}
+
